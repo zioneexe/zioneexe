@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m a Trainee Salesforce Developer.<br>💬 Though Java holds a place in my heart.<br>🌱 Currently building a Telegram bot for task and reminder management.<br>⚡ Fun fact **"Java was originally called ‘Oak,’ inspired by a tree. It was later renamed ‘Java’ after the coffee that fueled its creators!"** ☕✨
+🔭 I’m a Trainee Salesforce Developer.<br>💬 Though Java holds a place in my heart.<br>🌱 Currently building a Telegram bot for task and reminder management.<br>☕✨ **"Java was originally called ‘Oak,’ inspired by a tree. It was later renamed ‘Java’ after the coffee that fueled its creators!"**
 
 
 ## 🌐 Socials:
