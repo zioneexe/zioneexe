@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on Notee ***[pet project]***<br>🌱 I’m currently learning Spring, Angular<br>💬 Ask me about Java <br>⚡ Fun fact **"Java was originally called ‘Oak,’ inspired by a tree. It was later renamed ‘Java’ after the coffee that fueled its creators!"** ☕✨
+🔭 I’m working on Organizer Bot ***[pet project]***<br>🌱 I’m currently a Salesforce Developer<br>💬 Though Java holds a place in my heart <br>⚡ Fun fact **"Java was originally called ‘Oak,’ inspired by a tree. It was later renamed ‘Java’ after the coffee that fueled its creators!"** ☕✨
 
 
 ## 🌐 Socials:
